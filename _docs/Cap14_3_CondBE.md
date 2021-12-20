@@ -139,7 +139,8 @@ onde
 
 Com $A = m^{3/2}/\sqrt{2}\pi^2\hbar^3$ e $\rho = N/V$ sendo a densidade de partículas. A figura abaixo mostra a fração $N_0/N$ de superfluidos $N_0$ na mistura $N$ em função da temperatura $T$ para $T ≤ T_c$, de acordo com a equação (14.12).
 
-**Inserir figuraaaaaaaaa**
+![2021-11-09](https://user-images.githubusercontent.com/55469108/146835627-d672aa1e-a9bf-4293-904d-11b3184c7f57.png)
+
 
 No modelo de dois fluidos de London, os $N_0$ átomos que foram acrescentados na equação
 (14.6) se condensaram no estado fundamental. São estes átomos que constituem o superfluido. Os
